@@ -1,0 +1,367 @@
+@media (min-width: 1400px ) {
+    /* responsive for extra extra large device like laptop, monitor or TV screen */
+
+    .download-main {
+        padding: 50px;
+        margin-bottom: 80px;
+    }
+
+}
+
+@media (min-width: 1200px ) and (max-width: 1399px ) {
+    /* responsive for extra large device like laptop, monitor or TV screen */
+
+    .download-main {
+        padding: 50px;
+        margin-bottom: 80px;
+    }
+
+}
+
+@media (min-width: 992px ) and (max-width: 1199px ) {
+    /* responsive for large device like  large tab, laptop or monitor */
+
+    #banner h1 {
+        font: 700 60px/75px 'Poppins', sans-serif;
+    }  
+    
+    #about h2 {
+        font: 700 45px/60px 'Poppins', snas-serif;
+        padding-bottom: 15px;
+    }
+
+    #about h3 {
+        padding-bottom: 15px;
+    }
+
+    .counter-content .counter {
+        font: 600 25px/35px 'Poppins', sans-serif;
+    }
+
+    .counter-content .discription {
+        font: 500 18px/25px 'Poppins', sans-serif;
+    }
+
+    .social-icon {
+        padding-bottom: 100px;
+        padding-top: 100px;
+    }
+
+    .testimonial-parent h5 {
+        font: 600 40px/60px 'Poppins', sans-serif;
+    }
+
+    .download-main {
+        padding: 30px;
+        margin-bottom: 80px;
+    }
+
+    .news-headline {
+        font: 700 22px/35px 'Poppins', sans-serif;
+    }
+
+    .pricing-wrap {
+        padding: 50px 30px;
+    }
+
+
+}   
+
+@media (min-width: 768px ) and (max-width: 991px ) {
+    /* responsive for Medium device like tab or small laptop*/
+
+    #banner h1 {
+        font: 700 50px/65px 'Poppins', sans-serif;
+    } 
+
+    #about h3 {
+        font: 700 20px/35px 'Poppins', snas-serif;
+        padding-bottom: 10px;
+    }
+    
+    #about h2 {
+        font: 700 40px/50px 'Poppins', snas-serif;
+        padding-bottom: 15px;
+    }
+
+    .counter-up-container {
+        margin-top: 80px;
+    }
+
+    .counter-up-main {
+        align-items: start;
+    }
+
+    .counter-up-container .icon i {
+        font-size: 30px;
+    }
+
+    .counter-content .counter {
+        font: 600 25px/35px 'Poppins', sans-serif;
+    }
+
+    .counter-content .discription {
+        font: 500 18px/25px 'Poppins', sans-serif;
+    }
+
+    .social-icon {
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+
+    .exp-slider-main .image {
+        padding: 0 15px;
+    }
+
+    .testimonial-parent h5 {
+        font: 600 40px/55px 'Poppins', sans-serif;
+    }
+
+    .download-main {
+        padding: 50px 15px;
+        margin-bottom: 80px;
+    }
+
+    .pricing-wrap .plans li {
+        font: 400 15px/25px 'Poppins', sans-serif;
+    }
+
+    .money-sign {
+        font-size: 30px;
+    }
+
+    .pricing-wrap {
+        padding: 30px 20px;
+    }
+
+    .pricing-price {
+        font: 700 60px/75px 'Poppins', sans-serif;
+    }
+
+    .purchase-now a {
+        padding: 8px 15px;
+        font: 600 18px/30px 'Poppins', sans-serif;
+    }
+
+}
+
+@media (min-width: 576px ) and (max-width: 767px ) {
+    /* responsive for Small device like  landscape phone or small tab */
+
+    .navbar .nav-item {
+        display: none;
+    }
+
+    #banner h1 {
+        font: 700 60px/75px 'Poppins', sans-serif;
+    }
+
+    .counter-up-main {
+        justify-content: start;
+    }
+
+    .social-icon {
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+
+    .custom-btn {
+        padding: 15px 20px;
+        font: 700 14px/25px 'Poppins', sans-serif;
+        margin-bottom: 15px;
+    }
+
+    .exp-slider-main .image {
+        padding: 0 15px;
+    }
+
+    .testimonial-parent h5 {
+        font: 600 40px/55px 'Poppins', sans-serif;
+    }
+
+    .download-main h4 {
+        font: 700 40px/55px 'Poppins', sans-serif;
+        padding: 15px 0;
+    }
+
+    .download-main {
+        padding: 50px 15px;
+        margin-bottom: 80px;
+    }
+
+    .download-btn a {
+        font: 400 16px/25px 'Poppins', sans-serif;
+    }
+
+    .pricing-item {
+        margin-bottom: 50px;
+    }
+
+    .pricing-wrap {
+        padding: 50px 25px;
+    }
+
+    .pricing-wrap .plans li {
+        font: 400 16px/25px 'Poppins', sans-serif;
+    }
+
+    #contact p {
+        padding-bottom: 50px;
+    }
+
+    #contact .contact-info {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+
+}
+
+@media (max-width: 575.98px ) {
+    /* responsive for Extra Samll device like mobile phone */
+
+    .menubar {
+        width: 100%;
+        right: -100%
+    }
+
+    .menubar-on-screen {
+        right: 0;
+    }
+
+    .navbar .nav-item {
+        display: none;
+    }
+
+    .no-1 {
+        font: 600 14px/20px 'Poppins', sans-serif;
+    }
+
+    #banner h1 {
+        font: 700 35px/50px 'Poppins', sans-serif;
+    }
+
+    #banner h2 {
+        font: 500 18px/25px 'Poppins', sans-serif;
+    }
+
+    #banner .download {
+        font: 400 18px/25px 'Poppins', sans-serif;
+    }
+
+    #banner .play {
+        width: 45px;
+        height: 45px;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    #about h3 {
+        font: 700 20px/35px 'Poppins', snas-serif;
+        padding-bottom: 10px;
+    }
+
+    #about h2 {
+        font: 700 35px/45px 'Poppins', snas-serif;
+    }
+
+    .counter-up-container {
+        margin-top: 80px;
+    }
+
+    .counter-up-main {
+        justify-content: start;
+    }
+
+    .counter-up-container .icon i {
+        font-size: 35px;
+    }
+
+    .counter-content .counter {
+        font: 600 25px/35px 'Poppins', sans-serif;
+    }
+
+    .counter-content .discription {
+        font: 500 18px/25px 'Poppins', sans-serif;
+    }
+
+    .social-icon {
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+
+    .custom-btn i {
+        display: none;
+    }
+
+    .custom-btn {
+        padding: 15px 20px;
+        font: 700 14px/25px 'Poppins', sans-serif;
+        margin-bottom: 15px;
+    }
+
+    .exp-slider-main .image {
+        padding: 0 15px;
+    }
+
+    .testimonial-parent h5 {
+        font: 600 40px/55px 'Poppins', sans-serif;
+    }
+
+    .download-main {
+        padding: 50px 15px;
+        margin-bottom: 80px;
+    }
+
+    .download-main h4 {
+        font: 700 40px/55px 'Poppins', sans-serif;
+        padding: 15px 0;
+    }
+
+    .download-main p {
+        font: 400 16px/25px 'Poppins', sans-serif;
+    }
+
+    .download-btn {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .download-btn a {
+        margin-bottom: 20px;
+    }
+
+    .news-headline {
+        font: 700 20px/35px 'Poppins', sans-serif;
+    }
+
+    .pricing-wrap {
+        padding: 50px 30px;
+    }
+
+    .pricing-item {
+        margin-bottom: 50px;
+    }
+
+    #contact h3 {
+        font: 600 35px/50px 'Poppins', sans-serif;
+    }
+
+    #contact .address {
+        font: 600 25px/35px 'Poppins', sans-serif;
+    }
+
+    #contact p {
+        padding-bottom: 50px;
+    }
+
+    #contact .contact-info {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+
+    .message-headline {
+        font: 600 25px/35px 'Poppins', sans-serif;
+    }
+
+
+}
